@@ -28,7 +28,7 @@ const AddName=(name)=>{
             <h1>Button</h1>
             <button @click="ChangeValue">Add 20 Value</button>
             <button @click="ChangeUsername('Vishal','Kishore')">Change Name</button>
-            <button @click="AddName('Manaswini')">Append Name</button>
+            <button @click="AddName('Anantha')">Append Name</button>
         </div>
     </div>
 </template>
